@@ -1,1 +1,1 @@
-# ZECO-Big-Data-Platform
+# zeco-platform
